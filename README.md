@@ -1,6 +1,6 @@
 # Go! Booster pedal
 
-Project files for the Go! Booster.
+Project files for the Go! Booster. Note that the template in the board file is for the standard drilling that I use - you can ignore it, as it's not a visible layer for the sake of board export or manufacturing setup.
 
 Hopefully at some point I will remember to upload an offboard wiring mini PCB for the 3PDT switch you will need.
 
